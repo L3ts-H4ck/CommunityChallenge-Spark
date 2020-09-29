@@ -1,4 +1,4 @@
-# 🎒 MuseumSpArk 👩🏻‍🎨
+# 🎒 MuseumSpARk 👩🏻‍🎨
 
 **We are Stories, Museums are stories.**
 
@@ -55,4 +55,4 @@ When I was testing on the subway, I fell down the stairs 😭.
 
 ## License
 
-`MuseumSpArk ` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
+`MuseumSpARk ` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
