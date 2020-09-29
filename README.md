@@ -1,39 +1,18 @@
-# CommunityChallenge-Spark
+# 🎒 MuseumSpArk 👩🏻‍🎨
 
-Recordatorios
-
-Frase del mes :  
-Dale con lo que tienes
-
-Sen del mes : 
-Trabaja 10x, lo peor que puede pasar es que trabajes 5x, exprimiéndo lo máximo a tus días
-
-3 Skills que necesito pulir
-* Diseño grafico
-* Programación
-* Speaking
-
-3 Skills que necesito aprender
-
-* Negociación
-* Ventas
-* Algoritmia
-
-Cosas que debo hacer cuanto antes
-
-* Hacer mi solicitud de impuestos de Estados Unidos para DevPost.
-* Trabajar en mi proyecto para el Community Challenge.
-* Cancelarle a Sofia de Televia.
-* Trabajar en los servicios de Joshua.
-* Trabajar en Concul. 
-* Lanzarme de Freelance Desingner.
-* Estudiar para el examen de la UNAM.
-* Estudiar algoritmos y estructuras de datos. 
-
+**We are Stories, Museums are stories.**
 
 Community Challenge
 
+
+## 🦄 A Mission in front a problem 🧟‍♀️
+
 Idea : Curso de Spark AR para artes visuales y artistas. 
+
+Museum and some job can a risk to losing and Close so we planing this Tutorials Saga to iontegrate Spark AR in Artistic Project like painst, shapes or virtual museums.
+😊 
+
+## 🔮 Architecture of the Course
 
 Formato: Serie de tutoriales
 
@@ -50,5 +29,30 @@ Tutoríal Cuatro : De tradiciones estamos hechos.
 Creación de un filtro con la temática de una tradición regional como lo es el día de muertos.
 
 
+## 👨🏻‍💻 Tech Stack & Resources
 
-Hi Jackie I hope you are awesome, purpose of my message is because we are organize an event focus in Spark Ar with the support of the circles from Guadalajara, Monterrey and Canada, we appreciated  if Boston’s Circle can participate as a North Cone Cross Over. In the following days we will start organized us, If you have any cuestion make me know and I try to answer asap . My best Wishes 
+- ✅ Spark AR.✨
+- ✅ Photoshop.👩‍🎤
+- ✅ Canva.🖌
+- ✅ Blender.🎥
+
+## 👩🏻‍🔬 What I learned
+
+I was learn howe to use and add value for artistic projects with the use of Augmented Reality an the empowerment of Facebook and Instagram 💖 
+
+## 📝 What's next for MuseumAR
+- ✨ Add new languajes
+- ✨ Training with a big data set
+- ✨ Increase Vocabulary
+- ✨ Add a Learning Mode
+
+## 🐨 fun facts
+When I was testing on the subway, I fell down the stairs 😭.
+
+## Test and tell me what do you think ?
+
+
+
+## License
+
+`MuseumSpArk ` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
