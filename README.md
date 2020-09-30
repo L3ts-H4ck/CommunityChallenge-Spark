@@ -41,16 +41,33 @@ Creación de un filtro con la temática de una tradición regional como lo es el
 I was learn howe to use and add value for artistic projects with the use of Augmented Reality an the empowerment of Facebook and Instagram 💖 
 
 ## 📝 What's next for MuseumAR
-- ✨ Add new languajes
-- ✨ Training with a big data set
-- ✨ Increase Vocabulary
-- ✨ Add a Learning Mode
+- ✨ Add new integrations.
+- ✨ Invite artist to share their work anh how they are use Spark AR
+- ✨ Improve the resource hub 
+- ✨ Create a tutorial series about the use of spark AR with blender.
 
 ## 🐨 fun facts
 When I was testing on the subway, I fell down the stairs 😭.
 
 ## Test and tell me what do you think ?
 
+### Video Tutorial : Make a VanGogh Filter for your audience
+🦄 Imagine this is a tutorial: a filter tyo looks like your favourite art work. 👩‍🎤
+
+### Video Tutorial : From the museums to your house.
+🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
+
+### Video Tutorial : See me mom I am an 🍏.
+🦄 Imagine this is a tutorial with the use of a Magri filter.
+
+### Video Tutorial : I remember you ... 🌻
+🦄 Imagine this is a tutorial: A filter to show the tradition of death days. 
+
+### Art is like a magic 🔮
+🦄 Imagine this is a Youtube tutorial : Using a personal paint and using to make an awesome experience with the use of particles, lights, planes and music.
+
+### Show me 👩🏽‍🏫
+🦄 Imagine this is a Youtube tutorial : A tutorial to know how to show additional information with the use of spark ar for students. 👨🏼‍🎓
 
 
 ## License
