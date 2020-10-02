@@ -69,6 +69,9 @@ When I was testing on the subway, I fell down the stairs 😭.
 ### Show me 👩🏽‍🏫
 🦄 Imagine this is a Youtube tutorial : A tutorial to know how to show additional information with the use of spark ar for students. 👨🏼‍🎓
 
+### Resources: 
+
+* [Hub](https://drive.google.com/drive/folders/1kS3zmfZ2-tnsuFXy9e42TDG6rKI9alUH?usp=sharing)
 
 ## License
 
