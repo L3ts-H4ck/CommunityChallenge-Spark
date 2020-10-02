@@ -1,4 +1,4 @@
-# 🎒 MuseumSpARk 👩🏻‍🎨
+# 🎒 MuseumSpARk 👩🏻‍🎨 Spark ARt
 
 **We are Stories, Museums are stories.**
 
