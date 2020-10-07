@@ -63,6 +63,8 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
 
 ### Video Tutorial : See me mom I am an 🍏.
+Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
+
 🦄 Imagine this is a tutorial with the use of a Magri filter.
 
 ### Video Tutorial : I remember you ... 🌻
