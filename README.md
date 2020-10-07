@@ -76,7 +76,9 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 
 ### Resources: 
 
-* [Hub](https://drive.google.com/drive/folders/1kS3zmfZ2-tnsuFXy9e42TDG6rKI9alUH?usp=sharing)
+* [Assets Community Hub](https://drive.google.com/drive/folders/1kS3zmfZ2-tnsuFXy9e42TDG6rKI9alUH?usp=sharing)
+* [Open Access at The Met](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access)
+* [Free 3D models available for download](https://www.cgtrader.com/free-3d-models)
 
 ## License
 
