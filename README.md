@@ -51,8 +51,13 @@ When I was testing on the subway, I fell down the stairs 😭.
 
 ## Test and tell me what do you think ?
 
-### Video Tutorial : Make a VanGogh Filter for your audience
-🦄 Imagine this is a tutorial: a filter tyo looks like your favourite art work. 👩‍🎤
+### Video Tutorial : Create filters with your favorite pieces of art !!! [ ENGLISH AND SPANISH VERSION ]
+
+#### Spanish Version
+
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/Y6E4TtDzXa4/mq2.jpg?sqp=CJCd9_sF&rs=AOn4CLCPkdnuGT9R2yrmfAObzah28uzOrg)](http://www.youtube.com/watch?v=Y6E4TtDzXa4 "Create filters with your favorite pieces of art !!!")
+
+
 
 ### Video Tutorial : From the museums to your house.
 🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
