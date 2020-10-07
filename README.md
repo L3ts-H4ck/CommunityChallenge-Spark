@@ -40,14 +40,14 @@ Creación de un filtro con la temática de una tradición regional como lo es el
 
 I was learn howe to use and add value for artistic projects with the use of Augmented Reality an the empowerment of Facebook and Instagram 💖 
 
-## 📝 What's next for MuseumAR
+## 📝 What's next for Spark ARt
 - ✨ Add new integrations.
 - ✨ Invite artist to share their work anh how they are use Spark AR
 - ✨ Improve the resource hub 
 - ✨ Create a tutorial series about the use of spark AR with blender.
 
 ## 🐨 fun facts
-When I was testing on the subway, I fell down the stairs 😭.
+
 
 ## Test and tell me what do you think ?
 
