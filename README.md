@@ -5,6 +5,7 @@
 Community Challenge
 
 
+
 ## 🦄 A Mission in front a problem 🧟‍♀️
 
 Idea : Curso de Spark AR para artes visuales y artistas. 
@@ -49,6 +50,9 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 ## 🐨 fun facts
 
 
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/Gv5soZfhO-s/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD85VCZhPwE0drTQ25dZW2EIcf8GA)](https://www.youtube.com/watch?v=Gv5soZfhO-s&list=PLx5GI4fhNq-mzx0Qnj6afxt8mIE_qyjZO
+ "Create filters with your favorite pieces of art !!!")
+
 ## Test and tell me what do you think ?
 
 ### Video Tutorial : Create filters with your favorite pieces of art !!! [ ENGLISH AND SPANISH VERSION ]
@@ -56,6 +60,7 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 #### Spanish Version
 
 [![IMAGE ALT TEXT](https://i9.ytimg.com/vi/Y6E4TtDzXa4/mq2.jpg?sqp=CJCd9_sF&rs=AOn4CLCPkdnuGT9R2yrmfAObzah28uzOrg)](http://www.youtube.com/watch?v=Y6E4TtDzXa4 "Create filters with your favorite pieces of art !!!")
+
 
 
 
