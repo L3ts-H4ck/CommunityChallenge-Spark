@@ -62,12 +62,19 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 [![IMAGE ALT TEXT](https://i9.ytimg.com/vi/Y6E4TtDzXa4/mq2.jpg?sqp=CJCd9_sF&rs=AOn4CLCPkdnuGT9R2yrmfAObzah28uzOrg)](http://www.youtube.com/watch?v=Y6E4TtDzXa4 "Create filters with your favorite pieces of art !!!")
 
 
+# Video Tutorial : From Cero To Hero .
+🎬 In this section we learn how to use Spark AR . 🏃‍♂️
+
+See the tutorial o the Video Tutorial.
 
 
-### Video Tutorial : From the museums to your house.
+# Video Tutorial : How to make Your Artistic Assets .
+👩🏻‍🎨 In this section we learn how to make our artistic assets . 🎨
+
+# Video Tutorial : From the museums to your house.
 🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
 
-### Video Tutorial : See me mom I am an 🍏.
+# Video Tutorial : See me mom I am an 🍏.
 Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
 
 🦄 Imagine this is a tutorial with the use of a Magri filter.
