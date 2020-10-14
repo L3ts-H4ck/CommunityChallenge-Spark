@@ -49,24 +49,21 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 
 ## 🐨 fun facts
 
-
-
-## Test and tell me what do you think ?
-
-### Video Tutorial : Create filters with your favorite pieces of art !!! [ ENGLISH AND SPANISH VERSION ]
-
-#### Spanish Version
-
-[Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
-<br>
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
-
 # Video Tutorial : From Cero To Hero .
 🎬 In this section we learn how to use Spark AR . 🏃‍♂️
 
 See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) o the [Video Tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md).
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/12-intro.png?raw=true" width="35%" title="hover text">
+
+
+# Video Tutorial : Create filters with your favorite pieces of art !!! [ ENGLISH AND SPANISH VERSION ]
+
+#### Spanish Version
+
+[Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
 
 
 # Video Tutorial : How to make Your Artistic Assets .
