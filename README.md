@@ -65,7 +65,8 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 # Video Tutorial : From Cero To Hero .
 🎬 In this section we learn how to use Spark AR . 🏃‍♂️
 
-See the tutorial o the Video Tutorial.
+See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) o the [Video Tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md).
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/12-intro.png?raw=true" width="75%" title="hover text">
 
 
 # Video Tutorial : How to make Your Artistic Assets .
