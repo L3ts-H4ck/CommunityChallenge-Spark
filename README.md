@@ -1,8 +1,10 @@
-# 🎒 Spark ARt 👩🏻‍🎨 
+
+# 🎒 Spark ARt 👩🏻‍🎨  #CommunityChallenge
 
 **We are Stories, Museums are stories.**
 
-Community Challenge
+
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/artSeries.png?raw=true" width="100%" title="hover text">
 
 
 
