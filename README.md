@@ -50,8 +50,6 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 ## 🐨 fun facts
 
 
-[![IMAGE ALT TEXT](https://i.ytimg.com/vi/Gv5soZfhO-s/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD85VCZhPwE0drTQ25dZW2EIcf8GA)](https://www.youtube.com/watch?v=Gv5soZfhO-s&list=PLx5GI4fhNq-mzx0Qnj6afxt8mIE_qyjZO
- "Create filters with your favorite pieces of art !!!")
 
 ## Test and tell me what do you think ?
 
@@ -59,8 +57,9 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 
 #### Spanish Version
 
-[![IMAGE ALT TEXT](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/youareart.png?raw=true)](http://www.youtube.com/watch?v=Y6E4TtDzXa4 "Create filters with your favorite pieces of art !!!")
-
+[Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
 
 # Video Tutorial : From Cero To Hero .
 🎬 In this section we learn how to use Spark AR . 🏃‍♂️
@@ -73,13 +72,24 @@ See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/ma
 # Video Tutorial : How to make Your Artistic Assets .
 👩🏻‍🎨 In this section we learn how to make our artistic assets . 🎨
 
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/02-demo.png?raw=true" width="60%" title="hover text">
+
+
 # Video Tutorial : From the museums to your house.
 🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
+
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/04-demo.png?raw=true" width="35%" title="hover text">
+
 
 # Video Tutorial : See me mom I am an 🍏.
 Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
 
 🦄 Imagine this is a tutorial with the use of a Magri filter.
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/magritteSpark.png?raw=true" width="35%" title="hover text">
+
 
 ### Video Tutorial : I remember you ... 🌻
 🦄 Imagine this is a tutorial: A filter to show the tradition of death days. 
