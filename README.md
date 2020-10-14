@@ -59,7 +59,7 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 
 #### Spanish Version
 
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/Y6E4TtDzXa4/mq2.jpg?sqp=CJCd9_sF&rs=AOn4CLCPkdnuGT9R2yrmfAObzah28uzOrg)](http://www.youtube.com/watch?v=Y6E4TtDzXa4 "Create filters with your favorite pieces of art !!!")
+[![IMAGE ALT TEXT](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/youareart.png?raw=true)](http://www.youtube.com/watch?v=Y6E4TtDzXa4 "Create filters with your favorite pieces of art !!!")
 
 
 # Video Tutorial : From Cero To Hero .
