@@ -57,21 +57,21 @@ See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/ma
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/12-intro.png?raw=true" width="35%" title="hover text">
 
 
-# Video Tutorial : Create filters with your favorite pieces of art !!! [ ENGLISH AND SPANISH VERSION ]
-
-#### Spanish Version
-
-[Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
-<br>
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
-
-
 # Video Tutorial : How to make Your Artistic Assets .
 👩🏻‍🎨 In this section we learn how to make our artistic assets . 🎨
 
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/02-demo.png?raw=true" width="60%" title="hover text">
 
+
+# Video Tutorial : Create filters with your favorite pieces of art !!! 
+
+### [ ENGLISH AND SPANISH VERSION ]
+
+### Spanish Version
+[Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
 
 # Video Tutorial : From the museums to your house.
 🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
