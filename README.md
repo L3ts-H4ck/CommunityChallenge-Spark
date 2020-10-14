@@ -90,10 +90,6 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/magritteSpark.png?raw=true" width="35%" title="hover text">
 
-
-### Video Tutorial : I remember you ... 🌻
-🦄 Imagine this is a tutorial: A filter to show the tradition of death days. 
-
 ### Art is like a magic 🔮
 🦄 Imagine this is a Youtube tutorial : Using a personal paint and using to make an awesome experience with the use of particles, lights, planes and music.
 
