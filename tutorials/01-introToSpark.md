@@ -1,7 +1,5 @@
 # From 0 to Hero in Spark AR Studio.
 
-## Introduction.
-
 ## Whats Spark AR Studio
 
 ## Instalation
