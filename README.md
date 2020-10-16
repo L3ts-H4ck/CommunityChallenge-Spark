@@ -39,7 +39,7 @@ Creación de un filtro con la temática de una tradición regional como lo es el
 - ✅ Canva.🖌
 - ✅ Blender.🎥
 
-## 👩🏻‍🔬 What I learned
+## 👩🏻‍🔬 What's we learned
 
 I was learn howe to use and add value for artistic projects with the use of Augmented Reality an the empowerment of Facebook and Instagram 💖 
 
@@ -48,8 +48,29 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 - ✨ Invite artist to share their work anh how they are use Spark AR
 - ✨ Improve the resource hub 
 - ✨ Create a tutorial series about the use of spark AR with blender.
+- ✨ Continues the serie .
 
 ## 🐨 fun facts
+
+- ✨ We try to record videos but we losed connect the microphone :'v sorry .
+
+### Resources: 
+
+* [Assets Community Hub](https://drive.google.com/drive/folders/1kS3zmfZ2-tnsuFXy9e42TDG6rKI9alUH?usp=sharing)
+* [Open Access at The Met](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access)
+* [Free 3D models available for download](https://www.cgtrader.com/free-3d-models)
+
+### Tutorials :
+- ✨ Improve the resource hub 
+- ✨ Create a tutorial series about the use of spark AR with blender.
+- ✨ Continues the serie .
+
+### Youtube Tutorials :
+- ✨ Improve the resource hub 
+- ✨ Create a tutorial series about the use of spark AR with blender.
+- ✨ Continues the serie .
+
+
 
 # Video Tutorial : From Cero To Hero .
 🎬 In this section we learn how to use Spark AR . 🏃‍♂️
@@ -94,6 +115,7 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 
 ### Show me 👩🏽‍🏫
 🦄 Imagine this is a Youtube tutorial : A tutorial to know how to show additional information with the use of spark ar for students. 👨🏼‍🎓
+
 
 ### Resources: 
 
