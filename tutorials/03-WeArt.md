@@ -58,7 +58,7 @@ Una vez agregado nuestro canva, seleccionamos nuevamente la obcion de agregar ob
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/29.png?raw=true" height="500">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/30.png?raw=true" height="450">
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/31.png?raw=true" height="350">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/31.png?raw=true" height="150">
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/32.png?raw=true" height="500">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/33.png?raw=true" height="500">
