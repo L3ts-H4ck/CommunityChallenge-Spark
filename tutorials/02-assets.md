@@ -1,6 +1,7 @@
   # Make our assets and how to find resources <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
 
-# Buscando Nuestros Assets
+## En busca de recursos
+
 Para comenzar vamos a ir al sitio web de [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access) donde encontraremos recursos a nuestra disposicion una coleccion de imágenes de obras de arte de la colección The Met para usar, compartir y remezclar, sin restricciones. Este cambio de política a Open Access es una declaración importante sobre el compromiso de The Met de aumentar el acceso a la colección en la era digita y con las cuales vamos a trabajar nuestros proyectos de este curso.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/01.png?raw=true" width="80%">
@@ -20,7 +21,9 @@ Nuestros elementos los tendremos en una carpeta para tener los elementos de nues
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/05.png?raw=true" width="80%">
 
-Procedemos a Abrir nuestro de editor de imagenes preferido y procedemos a abrir la imagen con la que trabajaremos. Algo que hay que tener en cuenta es que este editor debe ser capas de seleccionar todos y recortar las imagenes que estamos trabajando, principalmente porque queremos exportar los elementos de forma separada.
+## Creando nuestros elementos
+
+Procedemos ha abrir nuestro de editor de imagenes preferido y procedemos a abrir la imagen con la que trabajaremos. Algo que hay que tener en cuenta es que este editor debe ser capas de seleccionar todos y recortar las imagenes que estamos trabajando, principalmente porque queremos exportar los elementos de forma separada.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/06.png?raw=true" width="80%">
 
