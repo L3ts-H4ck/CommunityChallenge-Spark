@@ -3,8 +3,6 @@
 
 **We are Stories, Museums are stories.**
 
-https://developers.facebook.com/developercircles/learn/
-
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/artSeries.png?raw=true" width="100%" title="hover text">
 
 
@@ -143,6 +141,7 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 * [Assets Community Hub](https://drive.google.com/drive/folders/1kS3zmfZ2-tnsuFXy9e42TDG6rKI9alUH?usp=sharing)
 * [Open Access at The Met](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access)
 * [Free 3D models available for download](https://www.cgtrader.com/free-3d-models)
+* [References Resources](https://developers.facebook.com/developercircles/learn/)
 
 ## License
 
