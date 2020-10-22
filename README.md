@@ -97,7 +97,7 @@ See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/ma
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
 
-# Video Tutorial : From the museums to your house.
+# Video Tutorial : From the museums to your Home 🏡 .
 🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
 
 <br>
@@ -111,11 +111,31 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/magritteSpark.png?raw=true" width="35%" title="hover text">
 
-### Art is like a magic 🔮
-🦄 Imagine this is a Youtube tutorial : Using a personal paint and using to make an awesome experience with the use of particles, lights, planes and music.
 
-### Show me 👩🏽‍🏫
-🦄 Imagine this is a Youtube tutorial : A tutorial to know how to show additional information with the use of spark ar for students. 👨🏼‍🎓
+# Learn about art in youtr Home 👩🏽‍🏫.
+Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
+
+🦄 Imagine this is a tutorial with the use of a Info and Images.
+[Example 1](https://www.metmuseum.org/art/collection/search/436529?searchField=All&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=6)
+[Example 2](https://www.metmuseum.org/art/collection/search/436819?searchField=All&amp;showOnly=openAccess&amp;ft=Klimt&amp;offset=0&amp;rpp=20&amp;pos=2)
+[Example 3](https://www.metmuseum.org/art/collection/search/438817?searchField=All&amp;sortBy=Relevance&amp;showOnly=openAccess&amp;ft=degas&amp;offset=0&amp;rpp=20&amp;pos=2)
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/learning.png?raw=true" width="35%" title="hover text">
+
+
+### Art is Magic 🔮
+🦄 Imagine this is a Youtube tutorial : Using a personal paint and using to make an awesome experience with the use of particles, lights, planes and music.
+[Example 1](https://www.metmuseum.org/art/collection/search/436529?searchField=All&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=6)
+<br>
+<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/436529/795979/main-image" width="35%" title="hover text">
+
+
+### Lost in a Piece 🌌
+🦄 Take your Art Work and make an inversive pice of art.
+[Example 1](https://www.metmuseum.org/art/collection/search/436529?searchField=All&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=6)
+[Example 2](https://www.metmuseum.org/art/collection/search/336327?searchField=All&amp;sortBy=Relevance&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=8)
+<br>
+<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/436529/795979/main-image" width="35%" title="hover text">
 
 
 ### Resources: 
