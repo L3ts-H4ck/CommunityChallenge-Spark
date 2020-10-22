@@ -142,6 +142,9 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 * [Open Access at The Met](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access)
 * [Free 3D models available for download](https://www.cgtrader.com/free-3d-models)
 * [References Resources](https://developers.facebook.com/developercircles/learn/)
+* [Spark AR Instrucitons](https://sparkar.facebook.com/ar-studio/learn/articles/camera-settings/instructions#automatic-instructions)
+* [Best Practice](https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/best-practice#effect-strategy)
+* [Engaging Experiences](https://developers.facebook.com/videos/2020/building-engaging-experiences-on-spark-ar/)
 
 ## License
 
