@@ -7,6 +7,49 @@
 
 
 
+
+
+# Devpost Format
+
+
+## Inspiration
+
+Some cultural centers and museums closed permanently due to the lack of visitors due to the pandemic, so we came up with this tutorial series for educators, museums or cultural centers can take their activities to people's homes with the creation of filters. 👩🏻‍🎨 The material has a Public Domind License and everyone can use the assets and templates.
+
+## What it does
+
+During this series you will learn the different tools that spark ar has to offer us for the creation of interactions, from the creation of color filters, to interacting with 3d elements in our house with the use of paths and scripts.
+
+## How we built it
+
+We planned this series starting by taking our first steps through the Spark AR interface, looking for inspiration on instagram and looking for elements of the public domain or royalty-free. Later we create our first filters, we will create our own designs in different tools such as figma, canva, photoshop, gimp or with our own drawings. Later we see how to work with the different elements of Spark, the tracking options and we culminate working with 3d elements with the use of the path editor and developing our own scripts to generate personalized interactions.
+
+
+
+
+# End Devpost Format
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🦄 A Mission in front a problem 🧟‍♀️
 
 Idea : Curso de Spark AR para artes visuales y artistas. 
