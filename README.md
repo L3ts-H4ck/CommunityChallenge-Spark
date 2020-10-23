@@ -1,5 +1,5 @@
 
-# 🎒 Spark ARt 👩🏻‍🎨  #CommunityChallenge
+# 🎒 Spark AR - Art Series 👩🏻‍🎨  #CommunityChallenge
 
 **We are Stories, Museums are stories.**
 
@@ -11,6 +11,7 @@
 
 # Devpost Format
 
+# Spark AR - Art Series
 
 ## Inspiration
 
@@ -25,7 +26,32 @@ During this series you will learn the different tools that spark ar has to offer
 We planned this series starting by taking our first steps through the Spark AR interface, looking for inspiration on instagram and looking for elements of the public domain or royalty-free. Later we create our first filters, we will create our own designs in different tools such as figma, canva, photoshop, gimp or with our own drawings. Later we see how to work with the different elements of Spark, the tracking options and we culminate working with 3d elements with the use of the path editor and developing our own scripts to generate personalized interactions.
 
 
+## Challenges we ran into
 
+During the challenge we faced never before doing tutorials, made by which we nailed ourselves to learn to write, record, edit, produce, repair audios and record multiple occasions, (Every time the garbage truck or ambulances passed).But without a doubt what motivated us to continue generating content despite our lack of experience was the acceptance of the community and the support they showed towards the project.
+
+## Accomplishments that we're proud of
+
+* Having created content that can be of help to someone who is starting or give that punch to their projects with spark.
+* Support the community to find content with follow-up through facebook groups and youtube comments.
+* The scope of the first tutorials.
+
+## What we learned
+
+- ✨ Spark AR community support tou.
+- ✨ How to .. Record, Write tutorials, make a guion, create a youtube chanel, segment audience, 
+- ✨ Improve our Spark AR Skill (Now we are Spartk AR Ninjas)
+- ✨ The importance to save files in photoshop every second.
+- ✨ How to important will be that someone else can help you to solve a simple question that will be hardest to solve.
+
+## What's next for Spark AR - Art Series
+- ✨ Add auto translate to support more lenguages.
+- ✨ Support more languages to the tutorial subtitles.
+- ✨ Add new interactions and uses.
+- ✨ Invite artist to share their work anh how they are use Spark AR
+- ✨ Improve the resource hub and quality of videos.
+- ✨ Create a tutorial series about the use of spark AR with blender.
+- ✨ Continues the serie .
 
 # End Devpost Format
 
