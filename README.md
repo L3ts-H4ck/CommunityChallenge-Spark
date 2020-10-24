@@ -187,9 +187,7 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 [Example 2](https://www.metmuseum.org/art/collection/search/436819?searchField=All&amp;showOnly=openAccess&amp;ft=Klimt&amp;offset=0&amp;rpp=20&amp;pos=2)
 [Example 3](https://www.metmuseum.org/art/collection/search/438817?searchField=All&amp;sortBy=Relevance&amp;showOnly=openAccess&amp;ft=degas&amp;offset=0&amp;rpp=20&amp;pos=2)
 <br>
-<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122237959_3536197529793229_3258791918736505668_n.jpg?_nc_cat=111&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=EY_336W0q0IAX-0SVn3&_nc_ht=scontent.fmex6-1.fna&oh=79bf79ac681544c36cf8eeeb7c2b5fde&oe=5FB96F57" width="35%" title="hover text">
-
-<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122458909_3536197523126563_439873267385192134_o.jpg?_nc_cat=100&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=OXjaEUalOqUAX9bha-A&_nc_ht=scontent.fmex6-1.fna&oh=a6cac63cc98f6cca1c0cfa26f421045f&oe=5FBAE88D" width="35%" title="hover text">
+<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122237959_3536197529793229_3258791918736505668_n.jpg?_nc_cat=111&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=EY_336W0q0IAX-0SVn3&_nc_ht=scontent.fmex6-1.fna&oh=79bf79ac681544c36cf8eeeb7c2b5fde&oe=5FB96F57" width="35%" title="hover text"><img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122458909_3536197523126563_439873267385192134_o.jpg?_nc_cat=100&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=OXjaEUalOqUAX9bha-A&_nc_ht=scontent.fmex6-1.fna&oh=a6cac63cc98f6cca1c0cfa26f421045f&oe=5FBAE88D" width="35%" title="hover text">
 
 
 # Lost in a Piece 🌌
