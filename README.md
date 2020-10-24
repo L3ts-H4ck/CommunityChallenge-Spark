@@ -25,6 +25,9 @@ During this series you will learn the different tools that spark ar has to offer
 
 We planned this series starting by taking our first steps through the Spark AR interface, looking for inspiration on instagram and looking for elements of the public domain or royalty-free. Later we create our first filters, we will create our own designs in different tools such as figma, canva, photoshop, gimp or with our own drawings. Later we see how to work with the different elements of Spark, the tracking options and we culminate working with 3d elements with the use of the path editor and developing our own scripts to generate personalized interactions.
 
+<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122333044_3536256456454003_949960480816450851_o.jpg?_nc_cat=101&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=sYsoQGkA0lkAX8breFM&_nc_ht=scontent.fmex6-1.fna&oh=e99ae62133cabfcccc0461993b67c04f&oe=5FB971AE" width="85%" title="hover text">
+
+
 
 ## Challenges we ran into
 
