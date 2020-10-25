@@ -18,7 +18,7 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/04.png?raw=true" width="50%">
 
-### - We'll have our elements in a folder to have everything in one place.
+### - We'll have our elements in a folder, just to have everything in one place.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/05.png?raw=true" width="50%">
 
