@@ -2,7 +2,7 @@
 
 # Make the Background
 
-### The first thing we need to do, is to open Spark AR and create a new project.
+### - The first thing we need to do, is to open Spark AR and create a new project.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/01.png?raw=true" width="50%">
 
