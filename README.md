@@ -25,70 +25,12 @@ During this series you will learn the different tools that spark ar has to offer
 
 We planned this series starting by taking our first steps through the Spark AR interface, looking for inspiration on instagram and looking for elements of the public domain or royalty-free. Later we create our first filters, we will create our own designs in different tools such as figma, canva, photoshop, gimp or with our own drawings. Later we see how to work with the different elements of Spark, the tracking options and we culminate working with 3d elements with the use of the path editor and developing our own scripts to generate personalized interactions.
 
-<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122333044_3536256456454003_949960480816450851_o.jpg?_nc_cat=101&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=sYsoQGkA0lkAX8breFM&_nc_ht=scontent.fmex6-1.fna&oh=e99ae62133cabfcccc0461993b67c04f&oe=5FB971AE" width="85%" title="hover text">
+#### 🔮 Architecture of the Course
 
+Format: Tutorial Serie
 
-
-## Challenges we ran into
-
-During the challenge we faced never before doing tutorials, made by which we nailed ourselves to learn to write, record, edit, produce, repair audios and record multiple occasions, (Every time the garbage truck or ambulances passed).But without a doubt what motivated us to continue generating content despite our lack of experience was the acceptance of the community and the support they showed towards the project.
-
-## Accomplishments that we're proud of
-
-* Having created content that can be of help to someone who is starting or give that punch to their projects with spark.
-* Support the community to find content with follow-up through facebook groups and youtube comments.
-* The scope of the first tutorials.
-
-## What we learned
-
-- ✨ Spark AR community support tou.
-- ✨ How to .. Record, Write tutorials, make a guion, create a youtube chanel, segment audience, 
-- ✨ Improve our Spark AR Skill (Now we are Spartk AR Ninjas)
-- ✨ The importance to save files in photoshop every second.
-- ✨ How to important will be that someone else can help you to solve a simple question that will be hardest to solve.
-
-## What's next for Spark AR - Art Series
-- ✨ Add auto translate to support more lenguages.
-- ✨ Support more languages to the tutorial subtitles.
-- ✨ Add new interactions and uses.
-- ✨ Invite artist to share their work anh how they are use Spark AR
-- ✨ Improve the resource hub and quality of videos.
-- ✨ Create a tutorial series about the use of spark AR with blender.
-- ✨ Continues the serie .
-
-# ------ End Devpost Format ------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🦄 A Mission in front a problem 🧟‍♀️
-
-Idea : Curso de Spark AR para artes visuales y artistas. 
-
-Museum and some job can a risk to losing and Close so we planing this Tutorials Saga to iontegrate Spark AR in Artistic Project like painst, shapes or virtual museums.
-😊 
-
-## 🔮 Architecture of the Course
-
-Formato: Serie de tutoriales
+Tutorial Uno : Dale Vida a tus trabajos con Spark AR
+Creación de ilustraciones con realidad aumentada.
 
 Tutorial Uno : Dale Vida a tus trabajos con Spark AR
 Creación de ilustraciones con realidad aumentada.
@@ -110,20 +52,46 @@ Creación de un filtro con la temática de una tradición regional como lo es el
 - ✅ Canva.🖌
 - ✅ Blender.🎥
 
-## 👩🏻‍🔬 What's we learned
+<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122333044_3536256456454003_949960480816450851_o.jpg?_nc_cat=101&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=sYsoQGkA0lkAX8breFM&_nc_ht=scontent.fmex6-1.fna&oh=e99ae62133cabfcccc0461993b67c04f&oe=5FB971AE" width="85%" title="hover text">
 
-I was learn howe to use and add value for artistic projects with the use of Augmented Reality an the empowerment of Facebook and Instagram 💖 
 
-## 📝 What's next for Spark ARt
-- ✨ Add new integrations.
+
+## Challenges we ran in front a problem 🧟‍♀️
+
+During the challenge we faced never before doing tutorials, made by which we nailed ourselves to learn to write, record, edit, produce, repair audios and record multiple occasions, (Every time the garbage truck or ambulances passed).But without a doubt what motivated us to continue generating content despite our lack of experience was the acceptance of the community and the support they showed towards the project.
+
+## Accomplishments that we're proud of
+
+* Having created content that can be of help to someone who is starting or give that punch to their projects with spark.
+* Support the community to find content with follow-up through facebook groups and youtube comments.
+* The scope of the first tutorials.
+
+## What we learned
+
+- ✨ Spark AR community support tou.
+- ✨ How to .. Record, Write tutorials, make a guion, create a youtube chanel, segment audience, 
+- ✨ Improve our Spark AR Skill (Now we are Spartk AR Ninjas)
+- ✨ The importance to save files in photoshop every second.
+- ✨ How to important will be that someone else can help you to solve a simple question that will be hardest to solve.
+
+## 📝 What's next for Spark AR - Art Series
+
+- ✨ Add auto translate to support more lenguages.
+- ✨ Support more languages to the tutorial subtitles.
+- ✨ Add new interactions and uses.
 - ✨ Invite artist to share their work anh how they are use Spark AR
-- ✨ Improve the resource hub 
+- ✨ Improve the resource hub and quality of videos.
 - ✨ Create a tutorial series about the use of spark AR with blender.
 - ✨ Continues the serie .
 
 ## 🐨 fun facts
 
 - ✨ We try to record videos but we losed connect the microphone :'v sorry .
+
+
+# ------ End Devpost Format ------
+
+
 
 ### Resources: 
 
