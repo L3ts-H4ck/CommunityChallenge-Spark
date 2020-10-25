@@ -1,6 +1,6 @@
   # Make our assets and how to find resources <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
 
-## En busca de recursos
+## On search of ressources
 
 First we need to go to [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), where we can find resources from the art collection from "The Met", we can use them, share them and more, without any restriction. This change of policies to Open source, is an important statement from The Met to show their commitment to raise the access to this collection via web.
 
@@ -22,7 +22,7 @@ We'll have our elements in a folder just to have everything in one place.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/05.png?raw=true" width="80%">
 
-## Creando nuestros elementos
+## Creating our elements
 
 We procced to open our image editor and with it, the image we want. Something to keep in mind is that this editor need to be able to select all of our images and crop them, mostly because we want to export them separately
 
