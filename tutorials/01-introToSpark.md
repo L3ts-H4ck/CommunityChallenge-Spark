@@ -2,6 +2,10 @@
 
 ## Whats Spark AR Studio
 
+### ¿Que es Spark?
+
+<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/120928168_3494017337344582_7598071071032639315_n.jpg?_nc_cat=102&cb=846ca55b-311e05c7&ccb=2&_nc_sid=825194&_nc_ohc=OGwz1ay0XQwAX_WbfiB&_nc_ht=scontent.fmex6-1.fna&oh=1e22942c69b3edc8c32638c064712f0d&oe=5FBBBEE7" width="75%" title="hover text">
+
 ## Instalation
 
 La mejor manera para instalar Spark AR es ingresando al sitio oficial de [Spark AR](https://sparkar.facebook.com/ar-studio/) y seleccionando el boton de Download. El cual nos brindara un archivo de instalacion con el cual podremos instalar la ultima version de Spark AR. Cada que facebook alza una nueva version de Spark AR el mismo software nos lo hara saber, por lo que no sera necesario instalarlo de nuevo.
