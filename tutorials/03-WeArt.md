@@ -6,16 +6,15 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/01.png?raw=true" width="50%">
 
-Once the interface loads, we'll click on the option "Add Object"
+### - Once the interface loads, we'll click on the option "Add Object"
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/03.png?raw=true" width="50%">
 
-We need to search for the "canvas" option and click it.
-A canvas is a layer where we can add other elements, this elements can be either dynamic or static.
+### - We need to search for the "canvas" option and click it. A canvas is a layer where we can add other elements, this elements can be either dynamic or static.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/04.png?raw=true" height="500">
 
-Once we add this to our canvas, we select again the optin "Add object" and we add a rectangle
+### - Once we add this to our canvas, we select again the optin "Add object" and we add a rectangle
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/05.png?raw=true" height="500">
 
