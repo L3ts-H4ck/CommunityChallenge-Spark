@@ -41,6 +41,9 @@ Una vez logrado esto, las exportare de manera separada seccion por seccion de fl
 
 Para nuestro siguiente elemento puedes ingresar a el siguiente documento de Drive el cual encontraras en los comentarios de los tutoriales, en el cual encontraras templates que puedes ocupar para crear tus propios diseños.
 
+
+<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122502927_3536539519759030_4617690926323061931_o.jpg?_nc_cat=106&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=Dz_RbdxJ6Y8AX_hfBPq&_nc_ht=scontent.fmex6-1.fna&oh=8f0c3c3b89f55a5e198014c2bec8b8b0&oe=5FB900B8" width="80%">
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/10.png?raw=true" width="80%">
 
 Una vez dentro del Drive ingresaremos a la carpeta ASpark Asssets.
