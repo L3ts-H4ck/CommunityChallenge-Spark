@@ -2,65 +2,66 @@
 
 ## En busca de recursos
 
-Para comenzar vamos a ir al sitio web de [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access) donde encontraremos recursos a nuestra disposicion una coleccion de imágenes de obras de arte de la colección The Met para usar, compartir y remezclar, sin restricciones. Este cambio de política a Open Access es una declaración importante sobre el compromiso de The Met de aumentar el acceso a la colección en la era digita y con las cuales vamos a trabajar nuestros proyectos de este curso.
+First we need to go to [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), where we can find resources from the art collection from "The Met", we can use them, share them and more, without any restriction. This change of policies to Open source, is an important statement from The Met to show their commitment to raise the access to this collection via web.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/01.png?raw=true" width="80%">
 
-Nos vamos a ir a la seccion de Images of ArtWorks in the Public Domind y daremos clic en The Met collection.
+We're going to the Image of ArtWorks in the Public domain section and click on The Met Collection
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/02.png?raw=true" width="80%">
 
-Una vez aya cargado nuestra pagina agregaremos el nombre del artista, elemento o objeto que queremos buscar en la coleccion, en mi caso yo busque Van Gogh, debido a que usare imagenes de este artista para la generacion de mis elementos.
+Once the page loads, we'll start a search with the name of the artist, the painting, or any other object you want, in this case we search for Van Gogh. I'm going to use the images of this artist to generate my elements.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/03.png?raw=true" width="80%">
 
-Una vez desplegadas las ilustraciones vamos a darle clic a la imagen que mas nos guste, revisamos que tenga el sello de Public Domain y procedemos a descargarla dando clic en la flecha inferior de la imagen.
+Once our images are deployed, we're going to click on the one we like the most, we need to make sure it has the Public Domain stamp and we procced to download it by clicking it on the arrow.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/04.png?raw=true" width="80%">
 
-Nuestros elementos los tendremos en una carpeta para tener los elementos de nuestros proyectos de Spark AR.
+We'll have our elements in a folder just to have everything in one place.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/05.png?raw=true" width="80%">
 
 ## Creando nuestros elementos
 
-Procedemos ha abrir nuestro de editor de imagenes preferido y procedemos a abrir la imagen con la que trabajaremos. Algo que hay que tener en cuenta es que este editor debe ser capas de seleccionar todos y recortar las imagenes que estamos trabajando, principalmente porque queremos exportar los elementos de forma separada.
+We procced to open our image editor and with it, the image we want. Something to keep in mind is that this editor need to be able to select all of our images and crop them, mostly because we want to export them separately
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/06.png?raw=true" width="80%">
 
-Procedemos a seleccionar la Herramienta de Seleccion Rapida, la cual nos permite raleccionar por colores la imagen y eliminar el fonde las imagener, antes de eliminar los colores, recuerda duplicar tu capa con la que trabajaras, esto para tener un respaldo de tu documento. Una vez creada tu copia, oculta la original para obtener una trasparencia al trabajar con la copia.
+I'm going to select the "quick selection" tool, this tool allow us to separate by colors the image and eliminate the background, before you eliminate it, make sure to duplicate the layer you are working on, you need to have always a backup. Once the copy is made, hide the original to obtain the transparency we're looking for.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/07.png?raw=true" width="80%">
 
-En mi caso seleccionare unicamente retirare el fondo de color verde, la maceta y la mesa, solo dejando las hojas y las flores.
+In my case I'm going to remove the green background, the pot and the table, leaving only the leaves and flowers.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/08.png?raw=true" width="80%">
 
-Una vez logrado esto, las exportare de manera separada seccion por seccion de flores y hojas.
+Once we achive this, I'll export it separately, section by section of flowers and leaves.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/09.png?raw=true" width="80%">
 
-Para nuestro siguiente elemento puedes ingresar a el siguiente documento de Drive el cual encontraras en los comentarios de los tutoriales, en el cual encontraras templates que puedes ocupar para crear tus propios diseños.
+For our next element you can access this drive that appers on the comments, in wich you can find templates for your use.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/10.png?raw=true" width="80%">
 
-Una vez dentro del Drive ingresaremos a la carpeta ASpark Asssets.
+Once inside the drive, we go to the Spark Assets folder.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/11.png?raw=true" width="80%">
 
-Y dentro de ella encontraremos los siguientes templantes.
+Inside this folder you can find the following templates.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/12.png?raw=true" width="80%">
 
-Abriremos el template de BG en Photoshop.
+We'll open the BG template in Photoshop.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/13.png?raw=true" width="80%">
 
-Abrimos nuestra imagen que descargamso de MetMuseum y la recortamos.
+We'll open the image we just download from MetMuseum and we crop it.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/14.png?raw=true" width="80%">
 
-Una vez listo este paso procederemos pedar nuestra imagen en nuestro BG y a adaptarla hasta que nos guste el resultado.
+Once this step is ready, we need to paste our image in BG and adjust it until we like the result.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/15.png?raw=true" width="80%">
 
-En el proximo tutorial aprenderemos como usar nuestros assets dentro de un filtro de facebook e instagram. 
+On the next tutorial, we'll learn how to use our assets inside a Facebook or Instagram filter.
