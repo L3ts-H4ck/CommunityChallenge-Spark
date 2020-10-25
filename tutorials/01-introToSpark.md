@@ -5,7 +5,7 @@
 ## Instalation
 
 
-The best way to install Spark AR is through the official site Spark AR and click on the download button. We'll recive an installation file, from wich we can get the latest version. 
+The best way to install Spark AR is through the official site of Spark AR and clicking on the download button. We'll recive an installation file, from wich we can get the latest version. 
 Each time facebook releases a new version, we can get the newest one with the one we downloaded, you don't need to install it again. 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-intro.png?raw=true" width="50%" title="hover text">
