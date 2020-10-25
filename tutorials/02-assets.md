@@ -2,7 +2,7 @@
 
 ## On search of ressources
 
-First we need to go to [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), where we can find resources from the art collection from "The Met", we can use them, share them and more, without any restriction. This change of policies to Open source, is an important statement from The Met to show their commitment to raise the access to this collection via web.
+First we need to go to [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), where we can find resources from the art collection from "The Met". We can use them, share them and more, without any restriction. This change of policies to Open source, is an important statement from The Met to show their commitment to raise the access to this collection via web. 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/01.png?raw=true" width="80%">
 
@@ -14,21 +14,21 @@ Once the page loads, we'll start a search with the name of the artist, the paint
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/03.png?raw=true" width="80%">
 
-Once our images are deployed, we're going to click on the one we like the most, we need to make sure it has the Public Domain stamp and we procced to download it by clicking it on the arrow.
+Once our images deploy, we're going to click on the one we like the most. We need to make sure it has the Public Domain stamp and we procced to download it by clicking it on the arrow.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/04.png?raw=true" width="80%">
 
-We'll have our elements in a folder just to have everything in one place.
+We'll have our elements in a folder to have everything in one place.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/05.png?raw=true" width="80%">
 
 ## Creating our elements
 
-We procced to open our image editor and with it, the image we want. Something to keep in mind is that this editor need to be able to select all of our images and crop them, mostly because we want to export them separately
+We procced to open our image editor and with it, the image we want. Something to keep in mind is that this editor needs to be able to select all our images and crop them, because we want to export them 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/06.png?raw=true" width="80%">
 
-I'm going to select the "quick selection" tool, this tool allow us to separate by colors the image and eliminate the background, before you eliminate it, make sure to duplicate the layer you are working on, you need to have always a backup. Once the copy is made, hide the original to obtain the transparency we're looking for.
+I'm going to select the "quick selection" tool. This tool allow us to separate by colors the image and cut the background, before you cut it, make sure to duplicate the layer you are working on, you need to have always a backup. Once the copy is made, hide the original to get the transparency we're looking for.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/07.png?raw=true" width="80%">
 
@@ -36,11 +36,11 @@ In my case I'm going to remove the green background, the pot and the table, leav
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/08.png?raw=true" width="80%">
 
-Once we achive this, I'll export it separately, section by section of flowers and leaves.
+Once we achive this, I'll export it , section by section of flowers and leaves.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/09.png?raw=true" width="80%">
 
-For our next element you can access this drive that appers on the comments, in wich you can find templates for your use.
+For our next element, you can access this drive, in wich you can find templates for your use.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/10.png?raw=true" width="80%">
 
