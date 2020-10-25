@@ -105,7 +105,7 @@ During the challenge we faced never before doing tutorials, made by which we nai
 - ✨ Continues the serie .
 
 ### Youtube Tutorials :
-- ✨ Improve the resource hub 
+- ✨ Start a 
 - ✨ Create a tutorial series about the use of spark AR with blender.
 - ✨ Continues the serie .
 
