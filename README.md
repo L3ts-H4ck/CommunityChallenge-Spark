@@ -9,7 +9,7 @@
 
 
 
-# Devpost Format
+# ------ Devpost Format ------
 
 # Spark AR - Art Series
 
@@ -56,7 +56,7 @@ During the challenge we faced never before doing tutorials, made by which we nai
 - ✨ Create a tutorial series about the use of spark AR with blender.
 - ✨ Continues the serie .
 
-# End Devpost Format
+# ------ End Devpost Format ------
 
 
 
