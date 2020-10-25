@@ -167,12 +167,6 @@ See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/ma
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
 
-# Video Tutorial : From the museums to your Home 🏡 .
-🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
-
-<br>
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/04-demo.png?raw=true" width="35%" title="hover text">
-
 
 # Video Tutorial : See me mom I am an 🍏.
 Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
@@ -180,6 +174,13 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 🦄 Imagine this is a tutorial with the use of a Magri filter.
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/magritteSpark.png?raw=true" width="35%" title="hover text">
+
+
+# Video Tutorial : From the museums to your Home 🏡 .
+🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
+
+<br>
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/04-demo.png?raw=true" width="35%" title="hover text">
 
 
 # Learn about art in youtr Home 👩🏽‍🏫.
