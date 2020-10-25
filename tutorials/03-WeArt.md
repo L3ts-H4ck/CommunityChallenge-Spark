@@ -2,22 +2,23 @@
 
 # Make the Background
 
-Lo primero que vamos a hacer es abrir Spark AR y crear un nuevo proyecto. 
+The first thing we need to do, is to open Spark AR and create a new project.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/01.png?raw=true" height="500">
 
-Una vez se habra nuestra interfaz le daremos click en la obcion de agregar objeto.
+Once the interface loads, we'll click on the option "Add Object"
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/03.png?raw=true" height="500">
 
-Se nos abrira una interface en la cual buscaremos la opcion de canvas y le daremos agregar.
-Un canvas es un lienso en el cual podremos agregar otros elementos que pueden ser dinamicos o estaticos dentro del filtro.
+We need to search for the "canvas" option and click it.
+A canvas is a layer where we can add other elements, this elements can be either dynamic or static.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/04.png?raw=true" height="500">
 
-Una vez agregado nuestro canva, seleccionamos nuevamente la obcion de agregar objeto y agregaremos un rectangulo.
+Once we add this to our canvas, we select again the optin "Add object" and we add a rectangle
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/05.png?raw=true" height="500">
+
 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/06.png?raw=true" height="500">
