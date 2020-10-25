@@ -2,13 +2,13 @@
 
 # Make the Background
 
-The first thing we need to do, is to open Spark AR and create a new project.
+### The first thing we need to do, is to open Spark AR and create a new project.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/01.png?raw=true" height="500">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/01.png?raw=true" width="50%">
 
 Once the interface loads, we'll click on the option "Add Object"
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/03.png?raw=true" height="500">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/03.png?raw=true" width="50%">
 
 We need to search for the "canvas" option and click it.
 A canvas is a layer where we can add other elements, this elements can be either dynamic or static.
