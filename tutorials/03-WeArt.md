@@ -131,11 +131,25 @@
 ### - Now on the upper section, there's an icon with four arrows, once we select this icon, we can move all the planes we've create.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/32.png?raw=true" width="50%">
+
+### - Once we've placed all the planes, we add them the materials.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/33.png?raw=true" width="50%">
+
+### - Let's call them the same as the files.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/34.png?raw=true" width="50%">
 
+### - Now we choose the texture, that is going to be the image we have.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/35.png?raw=true" width="50%">
+
+### - What happened here, is that this plane is at the back of the others.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/36.png?raw=true" width="50%">
+
+### - You just need to rearrange them as you seem fit.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/37.png?raw=true" width="50%">
 
 # Make details
