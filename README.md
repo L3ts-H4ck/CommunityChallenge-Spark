@@ -139,7 +139,7 @@ Recursos utilizados en esta sección : [BG Clouds](https://unsplash.com/photos/P
 
 * Introducción
 * Assets
-* En el mindo de Van Gogh
+* En el mundo de Van Gogh
 * Mira mama soy una pintura
 * Aprende en casa
 
