@@ -137,11 +137,9 @@ Recursos utilizados en esta sección : [BG Clouds](https://unsplash.com/photos/P
 
 # Software de muestra:
 
-* Introducción
-* Assets
-* En el mundo de Van Gogh
-* Mira mama soy una pintura
-* Aprende en casa
+* (En el mundo de Van Gogh)[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/crownVangogh.zip]
+* (Mira mama soy una pintura)[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/AppleManMagritte.zip]
+* (Aprende en casa)[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/kilmtTextInformation.zip]
 
 # Licencia
 
