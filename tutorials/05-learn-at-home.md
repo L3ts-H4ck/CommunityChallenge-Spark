@@ -1,100 +1,99 @@
-# Learn at Home
+# Aprende en Casa
 
-In this section you willl be able to learn and have a lot of fun in the process, enjoy.
+En esta sección podrás aprender como crear piezas de arte interactivas con las cuales mostrar información relacionada y divertirte mucho en el proceso.
 
-## 1) Open Spark AR and Create a new Project
+## 1) Abra Spark AR y cree un nuevo proyecto
 
-### - Once we open the Spark AR program, we will select ```New Project```
+### - Una vez que abramos el programa Spark AR, seleccionaremos ```New Project``` .
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_1.jpg?raw=true" width="50%">
 
-## 2) Create A Plane Tracker
+## 2) Crear un ```Plane Tracker``` .
 
-### - The first thing we need is a new object, so we're goign to click in ```Add object```, then we need to insert a ```Fixed Target Tracker```.
+### - Lo primero que necesitamos es un objeto nuevo, así que vamos a hacer clic en ```Add object```, despues necesitamos insertar una ```Fixed Target Tracker```.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_2.jpg?raw=true" width="50%">
 
-### - Click on the ```Fixed Target Tracker``` , so we can see its properties on the rigth side. On this section we are going to add our texture.
+### - Has click en ```Fixed Target Tracker``` , para que podamos ver sus propiedades en el lado derecho. En esta sección vamos a agregar tu textura.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_3.jpg?raw=true" width="50%">
 
-### - We'll choose the image we want to show.
+### - Elegiremos la imagen que queremos mostrar.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_4.jpg?raw=true" width="50%">
 
-### - Now we see the image in our screen, but it's not ready yet.
+### - Ahora vemos la imagen en nuestra pantalla, pero aún no está lista.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_5.jpg?raw=true" width="50%">
 
-### - We need to add another object, this object is going to be the holder of our image, so we can get that 3D look we want, for that we'll coose a ```Plane```.
+### - Necesitamos agregar otro objeto, este objeto va a ser el soporte de nuestra imagen, para que podamos obtener ese aspecto 3D que queremos, para eso elegiremos un ```Plane``` ó ```Plano``` en español, el cual es un lienzo sobre el cual agregaremos nuestra textura .
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_6.jpg?raw=true" width="50%">
 
-### - Once we have it, we need to scale it, until it reaches the same size of the image.
+### - Una vez que lo tenemos, necesitamos escalarlo, hasta que alcance el mismo tamaño de la imagen.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_7.jpg?raw=true" width="50%">
 
-### - With the selection tool, we'll move the plane just in front of the image.
+### - Con la herramienta de selección, moveremos el plano justo delante de la imagen.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_8.jpg?raw=true" width="50%">
 
-### - We have to add it a new material.
+### - Tenemos que agregarle un nuevo material.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_9.jpg?raw=true" width="50%">
 
-### - After we add it the material, we'll select the same textre we added before.
+### - Después de agregar el material, seleccionaremos el mismo texto que agregamos antes.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_10.jpg?raw=true" width="50%">
 
-### - We just need to rotate it a llittle bit, so we can get a more natural view.
+### - Solo necesitamos rotarlo un poco, para que podamos obtener una vista más natural.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_11.jpg?raw=true" width="50%">
 
-## 3) Add the necesary Plane trackers and export your filter.
+## 3) Agregua los ```Plane trackers``` necesarios y exporta tú filtro.
 
-### - We'll repeat the same process from before, so we need a new ```Plane```
+### - Repetiremos el mismo proceso de antes, por lo que necesitamos un nuevo ```Plane```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_12.jpg?raw=true" width="50%">
 
-### - We will scale it again, to the same size.
+### - La escalaremos de nuevo, al mismo tamaño.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_13.jpg?raw=true" width="50%">
 
-### - Add a new material for this ```Plane```, but it needs to be new, because we will add a new image.
+### - Agrega un nuevo material ha este ```Plane```, pero debe ser nuevo, porque agregaremos una nueva imagen.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_14.jpg?raw=true" width="50%">
 
-### - Select the new image.
+### - Selecciona la nueva imagen.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_15.jpg?raw=true" width="50%">
 
-### - With the selection tool, we'll move it again, just in front of the one behind.
+### - Con la herramienta de selección, lo volveremos a mover, justo delante del que está detrás.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_16.jpg?raw=true" width="50%">
 
-### - We just need one last new ```Plane```.
+### - Solo necesitamos un último ```Plane``` nuevo.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_17.jpg?raw=true" width="50%">
 
-### - In this case, is going to be bigger that the other planes, so we just have to scale it more.
+### - En este caso, será más grande que los otros planos, así que solo tenemos que escalarlo más.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_18.jpg?raw=true" width="50%">
 
-### - Rotate the plane like this.
-
+### - Gire el plano así para lograr un mejor efecto.
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_19.jpg?raw=true" width="50%">
 
-### - We also need a new material for this plane, so we'll add one.
+### - También necesitamos un nuevo material para este plano, así que agregaremos uno.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_20.jpg?raw=true" width="50%">
 
-### - We choose the rigth texture.
+### - Elegimos la textura adecuada.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_21.jpg?raw=true" width="50%">
 
-### - And finally we have our educative filter.
+### - Y finalmente tenemos nuestro filtro educativo.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/LearnAtHome_22.jpg?raw=true" width="50%">
 
 
-### - Add the necesary Plane trackers that you needs but remember that your filter needs to be small and don't pass the max zise(Some Number).Go to the test section and send this filter to your facebook app to test.
+### - Agregue los Plane trackers necesarios que requiras, pero recuerde que su filtro debe ser pequeño y no pasar el máximo (Algunos números). Vaya a la sección de prueba y envía este filtro a su aplicación de Facebook para probar.
