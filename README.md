@@ -22,7 +22,7 @@ Algunos centros culturales y museos cerraron definitivamente por la falta de vis
 
 ## ¿ Que hace ?
 
-Durante esta serie conocerás las diferentes herramientas que spark ar tiene para ofrecernos para la creación de interacciones, desde la creación de filtros de color, hasta interactuar con elementos 3d de nuestra casa con el uso de caminos y scripts.
+Durante esta serie conocerás las diferentes herramientas que spark ar nos ofrece para la creación de interacciones, desde la creación de filtros de color, hasta interactuar con elementos 3d de nuestra casa con el uso de caminos y scripts.
 
 ## ¿ Como lo construimos ?
 
