@@ -38,11 +38,11 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/10.png?raw=true" width="50%">
 
-### - Once you have the properties like us, we now have to add a material to our rectangles. We click on the plus sign on the material section.
+### - Once you have the properties like us, we now have to add a material the user rectangle. We click on the plus sign on the material section.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/11.png?raw=true" width="50%">
 
-### - Let's change the name of the material to ```vgBg ```
+### - Let's change the name of the material to ```user ```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/12.png?raw=true" width="50%">
 
@@ -70,24 +70,50 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/17.png?raw=true" width="50%">
 
-### - Once we've done that, on ```Alpha``` we cross the checkbox. In ```Texture``` we choose ```personSegmentationMaskTexture0```
+### - Once we've done that, on ```Alpha``` we cross the checkbox. 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/18.png?raw=true" width="50%">
+
+### - In ```Texture``` we choose ```personSegmentationMaskTexture0```
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/19.png?raw=true" width="50%">
+
+### - We need to add the user canvas in another layer, this because we want them to be separated, the user from the background.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/20.png?raw=true" width="50%">
+
+### - If you have done everything so far acording to the tutorial, you will see something like these. We have our user separated from the background on different layers.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/21.png?raw=true" width="50%">
+
+### - We now need a material for our background.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/22.png?raw=true" width="50%">
+
+### - Let's change its name to ```bg```.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/23.png?raw=true" width="50%">
+
+### - The background needs a new texture, now is time to select the image we had for our background and add it to the project.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/24.png?raw=true" width="50%">
 
+### - As you can see, now we have our background done. The very next thing is to make the crown.
 
-
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/25.png?raw=true" width="50%">
 
 # Make the Crown
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/25.png?raw=true" width="50%">
+### - The first thing you need to do to make the crown, is to add a ```Face Tracker``` located on ```Add Object```.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/26.png?raw=true" width="50%">
+
+### - And inside the ```Face Tracker```, we're going to add a new object, in this case a ```Plane```
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/27.png?raw=true" width="50%">
+
+### - If you look closely, know we have a rectangle following the face of the person. But it's out of place, we just need to move it a little to the front.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/28.png?raw=true" width="50%">
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/29.png?raw=true" width="50%">
