@@ -135,6 +135,14 @@ Recursos utilizados en esta sección : [BG Clouds](https://unsplash.com/photos/P
 * [Best Practice](https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/best-practice#effect-strategy)
 * [Engaging Experiences](https://developers.facebook.com/videos/2020/building-engaging-experiences-on-spark-ar/)
 
+# Sampled Software:
+
+* Introducción
+* Assets
+* En el mindo de Van Gogh
+* Mira mama soy una pintura
+* Aprende en casa
+
 # Licencia
 
 `Spark AR - Serie Artistica ` es un trabajo de dominio publico, que usa [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Se libre de usarlo en tus proyectos .
