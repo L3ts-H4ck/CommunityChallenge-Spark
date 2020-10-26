@@ -1,67 +1,66 @@
-  # Make our assets and how to find resources <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
+# Haga nuestros activos y cómo encontrar recursos <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
 
-## On search of ressources
+## En busca de recursos
 
-### - First we need to go to [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), where we can find resources from the art collection from "The Met". We can use them, share them and more, without any restriction. This change of policies to Open source, is an important statement from The Met to show their commitment to raise the access to this collection via web. 
+### - Primero tenemos que ir a [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), donde podemos encontrar recursos de la colección de arte de "The Met". Podemos usarlos, compartirlos y más, sin ningún tipo de restricción. Este cambio de políticas a código abierto, es una declaración importante de The Met para mostrar su compromiso de aumentar el acceso a esta colección vía web.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/01.png?raw=true" width="50%">
 
-### - We're going to the Image of ArtWorks in the Public domain section and click on The Met Collection
+### - Vamos a la imagen de ArtWorks en la sección de dominio público y hacemos clic en The Met Collection
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/02.png?raw=true" width="50%">
 
-### - Once the page loads, we'll start a search with the name of the artist, the painting, or any other object you want, in this case we search for Van Gogh. I'm going to use the images of this artist to generate my elements.
+### - Una vez cargada la página, iniciaremos una búsqueda con el nombre del artista, la pintura o cualquier otro objeto que desees, en este caso buscamos a Van Gogh. Voy a usar las imágenes de este artista para generar mis elementos.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/03.png?raw=true" width="50%">
 
-### - Once our images deploy, we're going to click on the one we like the most. We need to make sure it has the Public Domain stamp and we procced to download it by clicking it on the arrow.
+### - Una vez desplegadas nuestras imágenes, haremos clic en la que más nos guste. Necesitamos asegurarnos de que tenga el sello de dominio público y procedimos a descargarlo haciendo clic en la flecha.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/04.png?raw=true" width="50%">
 
-### - We'll have our elements in a folder, just to have everything in one place.
-
+### - Tendremos nuestros elementos en una carpeta, solo para tener todo en un solo lugar.
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/05.png?raw=true" width="50%">
 
-## Creating our elements
+## Creando nuestros elementos
 
-### - We procced to open our image editor and with it, the image we want. Something to keep in mind is that this editor needs to be able to select all our images and crop them, because we want to export them 
+### - Procedimos a abrir nuestro editor de imágenes y con él, la imagen que queramos. Algo a tener en cuenta es que este editor necesita poder seleccionar todas nuestras imágenes y recortarlas, porque queremos exportarlas
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/06.png?raw=true" width="50%">
 
-### - I'm going to select the "quick selection" tool. This tool allow us to separate by colors the image and cut the background, before you cut it, make sure to duplicate the layer you are working on, you need to have always a backup. Once the copy is made, hide the original to get the transparency we're looking for.
+### - Voy a seleccionar la herramienta de "selección rápida". Esta herramienta nos permite separar por colores la imagen y cortar el fondo, antes de cortarla asegúrate de duplicar la capa en la que estás trabajando, necesitas tener siempre un respaldo. Una vez realizada la copia, oculte el original para obtener la transparencia que buscamos.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/07.png?raw=true" width="50%">
 
-### - In my case I'm going to remove the green background, the pot and the table, leaving only the leaves and flowers.
+### - En mi caso voy a quitar el fondo verde, la maceta y la mesa, dejando solo las hojas y las flores.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/08.png?raw=true" width="50%">
 
-### - Once we achive this, I'll export it , section by section of flowers and leaves.
+### - Una vez que lo logremos, lo exportaré, sección por sección de flores y hojas.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/09.png?raw=true" width="50%">
 
-### - For our next element, you can access this drive, in wich you can find templates for your use.
+### - Para nuestro próximo elemento, puede acceder a esta unidad, en la que puede encontrar plantillas para su uso.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/10.png?raw=true" width="50%">
 
-### - Once inside the drive, we go to the Spark Assets folder.
+### - Una vez dentro de la unidad, vamos a la carpeta Spark Assets.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/11.png?raw=true" width="50%">
 
-### - Inside this folder you can find the following templates.
+### - Dentro de esta carpeta puede encontrar las siguientes plantillas.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/12.png?raw=true" width="50%">
 
-### - We'll open the BG template in Photoshop.
+### - Abriremos la plantilla BG en Photoshop.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/13.png?raw=true" width="50%">
 
-### - We'll open the image we just download from MetMuseum and we crop it.
+### - Abriremos la imagen que acabamos de descargar de MetMuseum y la recortamos.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/14.png?raw=true" width="50%">
 
-### - Once this step is ready, we need to paste our image in BG and adjust it until we like the result.
+### - Una vez que este paso está listo, necesitamos pegar nuestra imagen en BG y ajustarla hasta que nos guste el resultado.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/15.png?raw=true" width="50%">
 
-### - On the next tutorial, we'll learn how to use our assets inside a Facebook or Instagram filter.
+### - En el siguiente tutorial, aprenderemos cómo usar nuestros activos dentro de un filtro de Facebook o Instagram.
