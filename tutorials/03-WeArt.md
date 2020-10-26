@@ -38,7 +38,7 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/10.png?raw=true" width="50%">
 
-### - Once you have the properties like us, we now have to add a material to our bg rectangle. We click on the plus sign on the material section.
+### - Once you have the properties like us, we now have to add a material to our rectangles. We click on the plus sign on the material section.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/11.png?raw=true" width="50%">
 
@@ -48,17 +48,20 @@
 
 # Add Camera Textures and Segmentation
 
-### - On top of the rectangles, there is the camera section, we need to click it because we now need to add the texture and segmentation.
+### - On top of the rectangles, there is the camera section. We need to click it because we now need to add the texture and segmentation.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/13.png?raw=true" width="50%">
 
-### - On top of the rectangles, there is the camera section, we need to click it because we now need to add the texture and segmentation.
+### - On the rigth side we can find the properties of the camera. 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/14.png?raw=true" width="50%">
 
-
+### - We're going to click on ```Texture Extraction``` and select ```cameraTexture0```, next in Segmentation we're going to select the ```personSegmentationMaterial```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/15.png?raw=true" width="50%">
+
+### - Now on the properties for the material on ```Shader Type``` we select ```Flat```
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/16.png?raw=true" width="50%">
 
 
