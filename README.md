@@ -7,11 +7,11 @@
 
 ## Indice :
 
-- ✨ Sobre este proyecto
-- ✨ Tutoriales
-- ✨ Video Tutoriales
-- ✨ Recursos
-- ✨ Licencia
+- ✨ [Sobre este proyecto](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#sobre-este-proyecto)
+- ✨ [Tutoriales](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#tutoriales)
+- ✨ [Video Tutoriales](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#youtube-tutoriales)
+- ✨ [Recursos](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#recursos)
+- ✨ [Licencia](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#licencia)
 
 
 # Sobre este proyecto
@@ -78,54 +78,54 @@ Durante el reto nos enfrentamos nunca antes haciendo tutoriales, elaborados por 
 
 
 
-## From Cero To Hero .
-🎬 In this section we learn how to use Spark AR . 🏃‍♂️
+## De Cero a Hero .
+🎬 En esta sección aprenderemos a usar Spark AR. 🏃‍♂️
 
-See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) o the [Video Tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md).
+Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) .
+
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/12-intro.png?raw=true" width="35%" title="hover text">
 
 
-## How to make Your Artistic Assets .
-👩🏻‍🎨 In this section we learn how to make our artistic assets . 🎨
+## Crea tus propios diseños!!
+👩🏻‍🎨 En esta sección aprenderemos a crear nuestros elementos artísticos. 🎨
 
+Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) .
+ 
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/02-demo.png?raw=true" width="60%" title="hover text">
 
 
-## Create filters with your favorite pieces of art !!! 
+## Explora tu creatividad !!! 
 
-### Spanish Version
-[Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
+Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) o prueba el [Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
+
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
 
 
-## See me mom I am an 🍏.
-Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
+## ¡Mira mama soy una manzana! 🍏
 
-🦄 Imagine this is a tutorial with the use of a Magri filter.
+Recursos utilizados en esta sección : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
+
+🦄 Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) .
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/magritteSpark.png?raw=true" width="35%" title="hover text">
 
 
-# Learn in your Home 👩🏽‍🏫.
-Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
+## Aprende en casa. 👩🏽‍🏫.
 
-🦄 Imagine this is a tutorial with the use of a Info and Images.
-[Example 1](https://www.metmuseum.org/art/collection/search/436529?searchField=All&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=6)
-[Example 2](https://www.metmuseum.org/art/collection/search/436819?searchField=All&amp;showOnly=openAccess&amp;ft=Klimt&amp;offset=0&amp;rpp=20&amp;pos=2)
-[Example 3](https://www.metmuseum.org/art/collection/search/438817?searchField=All&amp;sortBy=Relevance&amp;showOnly=openAccess&amp;ft=degas&amp;offset=0&amp;rpp=20&amp;pos=2)
+🦄 Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/01-introToSpark.md) .
+
 <br>
 <img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122237959_3536197529793229_3258791918736505668_n.jpg?_nc_cat=111&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=EY_336W0q0IAX-0SVn3&_nc_ht=scontent.fmex6-1.fna&oh=79bf79ac681544c36cf8eeeb7c2b5fde&oe=5FB96F57" width="35%" title="hover text"><img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122329906_3536205349792447_7268334650217145109_o.jpg?_nc_cat=102&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=R6hlA-8B1pkAX82OLk9&_nc_ht=scontent.fmex6-1.fna&oh=d433b87b0710d0fbdb6324043502e8e0&oe=5FB88352" width="28%" title="hover text">
 
-# Youtube Tutoriales:
-- ✨ Start a 
-- ✨ Create a tutorial series about the use of spark AR with blender.
-- ✨ Continues the serie .
+# VIDEO TUTORIALES:
+
+- ✨ [¡¡ Visita la lista de reproduccion que creamos para tí con el apoyo del Facebook Developer Circles Ciudad de México !!](https://www.youtube.com/watch?v=Gv5soZfhO-s&list=PLx5GI4fhNq-mzx0Qnj6afxt8mIE_qyjZO)
 
 
-### Recursos: 
+# Recursos: 
 
 * [Assets Community Hub](https://drive.google.com/drive/folders/1kS3zmfZ2-tnsuFXy9e42TDG6rKI9alUH?usp=sharing)
 * [Open Access at The Met](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access)
@@ -135,6 +135,6 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 * [Best Practice](https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/best-practice#effect-strategy)
 * [Engaging Experiences](https://developers.facebook.com/videos/2020/building-engaging-experiences-on-spark-ar/)
 
-## Licencia
+# Licencia
 
 `Spark AR - Serie Artistica ` es un trabajo de dominio publico, que usa [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Se libre de usarlo en tus proyectos .
