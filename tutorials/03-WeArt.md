@@ -30,8 +30,15 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/08.png?raw=true" width="50%">
 
+### - If we select the rectangle, we can edit its properties on the right side.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/09.png?raw=true" width="50%">
+
+### - We need to change its width and heigth to 100%. This ensure us to cover the hole screen and not to leave any blank space on the filter
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/10.png?raw=true" width="50%">
+
+### - We need to change its width and heigth to 100%. This ensure us to cover the hole screen and not to leave any blank space on the filter
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/11.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/12.png?raw=true" width="50%">
