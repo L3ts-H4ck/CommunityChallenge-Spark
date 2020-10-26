@@ -1,176 +1,67 @@
-# Make your first VanGogh Filter <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
+  # Make our assets and how to find resources <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
 
-# Make the Background
+## On search of ressources
 
-### - The first thing we need to do, is to open Spark AR and create a new project.
+### - First we need to go to [metmuseum.org](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access), where we can find resources from the art collection from "The Met". We can use them, share them and more, without any restriction. This change of policies to Open source, is an important statement from The Met to show their commitment to raise the access to this collection via web. 
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/01.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/01.png?raw=true" width="50%">
 
-### - Once the interface loads, we'll click on the option "Add Object"
+### - We're going to the Image of ArtWorks in the Public domain section and click on The Met Collection
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/03.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/02.png?raw=true" width="50%">
 
-### - We need to search for the "canvas" option and click it. A canvas is a layer where we can add other elements, this elements can be either dynamic or static.
+### - Once the page loads, we'll start a search with the name of the artist, the painting, or any other object you want, in this case we search for Van Gogh. I'm going to use the images of this artist to generate my elements.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/04.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/03.png?raw=true" width="50%">
 
-### - Once we add this to our canvas, we select again the option "Add object" and we add a rectangle
+### - Once our images deploy, we're going to click on the one we like the most. We need to make sure it has the Public Domain stamp and we procced to download it by clicking it on the arrow.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/05.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/04.png?raw=true" width="50%">
 
-### - Now we can see the rectangle on the canvas.
+### - We'll have our elements in a folder, just to have everything in one place.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/06.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/05.png?raw=true" width="50%">
 
-### - We need to add another rectangle, the first one is for the user and second one is for the background
+## Creating our elements
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/07.png?raw=true" width="50%">
+### - We procced to open our image editor and with it, the image we want. Something to keep in mind is that this editor needs to be able to select all our images and crop them, because we want to export them 
 
-### - Once we change the names of the rectangle to ```user``` and ```bg```, we can procced to edit them.
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/06.png?raw=true" width="50%">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/08.png?raw=true" width="50%">
+### - I'm going to select the "quick selection" tool. This tool allow us to separate by colors the image and cut the background, before you cut it, make sure to duplicate the layer you are working on, you need to have always a backup. Once the copy is made, hide the original to get the transparency we're looking for.
 
-### - If we select the rectangle, we can edit its properties on the right side.
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/07.png?raw=true" width="50%">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/09.png?raw=true" width="50%">
+### - In my case I'm going to remove the green background, the pot and the table, leaving only the leaves and flowers.
 
-### - We need to change its width and heigth to 100%. This ensure us to cover the hole screen and not to leave any blank space on the filter
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/08.png?raw=true" width="50%">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/10.png?raw=true" width="50%">
+### - Once we achive this, I'll export it , section by section of flowers and leaves.
 
-### - Once you have the properties like us, we now have to add a material the user rectangle. We click on the plus sign on the material section.
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/09.png?raw=true" width="50%">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/11.png?raw=true" width="50%">
+### - For our next element, you can access this drive, in wich you can find templates for your use.
 
-### - Let's change the name of the material to ```user ```
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/10.png?raw=true" width="50%">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/12.png?raw=true" width="50%">
+### - Once inside the drive, we go to the Spark Assets folder.
 
-# Add Camera Textures and Segmentation
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/11.png?raw=true" width="50%">
 
-### - On top of the rectangles, there is the camera section. We need to click it because we now need to add the texture and segmentation.
+### - Inside this folder you can find the following templates.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/13.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/12.png?raw=true" width="50%">
 
-### - On the rigth side we can find the properties of the camera. 
+### - We'll open the BG template in Photoshop.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/14.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/13.png?raw=true" width="50%">
 
-### - We're going to click on ```Texture Extraction``` and select ```cameraTexture0```, next in Segmentation we're going to select the ```personSegmentationMaskTexture0```
+### - We'll open the image we just download from MetMuseum and we crop it.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/15.png?raw=true" width="50%">
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/14.png?raw=true" width="50%">
 
-# Preview our Vangogh BG
+### - Once this step is ready, we need to paste our image in BG and adjust it until we like the result.
 
-### - Now on the properties for the material on ```Shader Type``` we select ```Flat```
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/02-assets/15.png?raw=true" width="50%">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/16.png?raw=true" width="50%">
-
-### - On ```Texture``` we select ```cameraTexture0```
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/17.png?raw=true" width="50%">
-
-### - Once we've done that, on ```Alpha``` we cross the checkbox. 
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/18.png?raw=true" width="50%">
-
-### - In ```Texture``` we choose ```personSegmentationMaskTexture0```
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/19.png?raw=true" width="50%">
-
-### - We need to add the user canvas in another layer, this because we want them to be separated, the user from the background.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/20.png?raw=true" width="50%">
-
-### - If you have done everything so far acording to the tutorial, you will see something like these. We have our user separated from the background on different layers.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/21.png?raw=true" width="50%">
-
-### - We now need a material for our background.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/22.png?raw=true" width="50%">
-
-### - Let's change its name to ```bg```.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/23.png?raw=true" width="50%">
-
-### - The background needs a new texture, now is time to select the image we had for our background and add it to the project.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/24.png?raw=true" width="50%">
-
-### - As you can see, now we have our background done. The very next thing is to make the crown.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/25.png?raw=true" width="50%">
-
-# Make the Crown
-
-### - The first thing you need to do to make the crown, is to add a ```Face Tracker``` located on ```Add Object```.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/26.png?raw=true" width="50%">
-
-### - And inside the ```Face Tracker```, we're going to add a new object, in this case a ```Plane```
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/27.png?raw=true" width="50%">
-
-### - If you look closely, now we have a rectangle following the face of the person. But it's out of place, we just need to move it a little to the front.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/28.png?raw=true" width="50%">
-
-### - Now we go to the very bottom on the ```Textures``` section, and add all the images for our crown.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/29.png?raw=true" width="50%">
-
-### - In this case we added 3 images, they have to be at the same level of the other textures.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/30.png?raw=true" width="50%">
-
-### - For every image you add, you need to add at least one ```Plane``` on the ```Face Tracker```, in each plane there's going to be one image, but you can have as many planes you want, if you want to repeat the same image over and over again.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/31.png?raw=true" width="50%">
-
-### - Now on the upper section, there's an icon with four arrows, once we select this icon, we can move all the planes we've create.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/32.png?raw=true" width="50%">
-
-### - Once we've placed all the planes, we add them the materials.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/33.png?raw=true" width="50%">
-
-### - Let's call them the same as the files.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/34.png?raw=true" width="50%">
-
-### - Now we choose the texture, that is going to be the image we have.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/35.png?raw=true" width="50%">
-
-### - What happened here, is that this plane is at the back of the others.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/36.png?raw=true" width="50%">
-
-### - You just need to rearrange them as you seem fit.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/37.png?raw=true" width="50%">
-
-# Make details
-
-### - If you don't want your filter to look like this, we can fix it.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/38.png?raw=true" width="50%">
-
-### - Create a new layer.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/39.png?raw=true" width="50%">
-
-### -  And add more images to this layer.
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/40.png?raw=true" width="50%">
-
- ### - Then move it to the sides of the face, so it can look more natural.
- 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/41.png?raw=true" width="50%">
-
-
-# The Result
-
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/42.png?raw=true" width="50%">
+### - On the next tutorial, we'll learn how to use our assets inside a Facebook or Instagram filter.
