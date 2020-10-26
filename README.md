@@ -96,7 +96,10 @@ Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/ma
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/02-demo.png?raw=true" width="60%" title="hover text">
 
 
+## Explora tu creatividad !!! 🌻
+
 ## Explora tu creatividad !!! 
+Ingresa al mundo de Van Gogh con la creación de un filtro que te lleva dentro de su mente, en esta sección aprenderás cómo integrar diferentes elementos de Spark AR y cómo usar diferentes herramientas para lograr interacciones sorprendentes.  🌻
 
 Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-WeArt.md) o prueba el [Video Tutorial](http://www.youtube.com/watch?v=Y6E4TtDzXa4)
 
@@ -106,6 +109,8 @@ Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/ma
 
 ## ¡Mira mama soy una manzana! 🍏
 
+En esta sección aprenderás a hacer un filtro tomando como referencia una de las pinturas más famosas del siglo XX. Esto es para animarte a despertar tu creatividad y explorar nuevas herramientas con Spark AR.🍏
+
 Recursos utilizados en esta sección : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
 
 🦄 Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/04-FaceTraker3D.md) .
@@ -114,6 +119,8 @@ Recursos utilizados en esta sección : [BG Clouds](https://unsplash.com/photos/P
 
 
 ## Aprende en casa. 👩🏽‍🏫.
+
+En este apartado aprenderás a crear filtros de realidad aumentada con los que podrás mostrar información relacionada con el elemento mostrado.
 
 🦄 Mira el [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/05-learn-at-home.md) .
 
