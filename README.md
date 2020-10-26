@@ -6,11 +6,6 @@
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/artSeries.png?raw=true" width="100%" title="hover text">
 
 
-
-
-
-# ------ Devpost Format ------
-
 # Spark AR - Art Series
 
 ## Inspiration
@@ -24,25 +19,6 @@ During this series you will learn the different tools that spark ar has to offer
 ## How we built it
 
 We planned this series starting by taking our first steps through the Spark AR interface, looking for inspiration on instagram and looking for elements of the public domain or royalty-free. Later we create our first filters, we will create our own designs in different tools such as figma, canva, photoshop, gimp or with our own drawings. Later we see how to work with the different elements of Spark, the tracking options and we culminate working with 3d elements with the use of the path editor and developing our own scripts to generate personalized interactions.
-
-#### 🔮 Architecture of the Course
-
-Format: Tutorial Serie
-
-Tutorial Uno : Dale Vida a tus trabajos con Spark AR
-Creación de ilustraciones con realidad aumentada.
-
-Tutorial Uno : Dale Vida a tus trabajos con Spark AR
-Creación de ilustraciones con realidad aumentada.
-
-Tutorial Dos : Del Museo a tu casa con Spark AR
-Generar elementos Tridimensionales que interactúen con las personas, si las personas no pueden ir al museo por la pandemia, que el museo vaya a las casas de las personas.
-
-Tutoríal Tres : De los murales a interactuar con personas usando Spark AR
-Del arte urbano a formar parte del estilo y outfit de las personas.
-
-Tutoríal Cuatro : De tradiciones estamos hechos.  
-Creación de un filtro con la temática de una tradición regional como lo es el día de muertos.
 
 
 ## 👨🏻‍💻 Tech Stack & Resources
@@ -87,9 +63,6 @@ During the challenge we faced never before doing tutorials, made by which we nai
 ## 🐨 fun facts
 
 - ✨ We try to record videos but we losed connect the microphone :'v sorry .
-
-
-# ------ End Devpost Format ------
 
 
 
