@@ -36,7 +36,7 @@ Planeamos esta serie comenzando por dar nuestros primeros pasos a través de la 
 - ✅ Canva.🖌
 - ✅ Blender.🎥
 
-<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122333044_3536256456454003_949960480816450851_o.jpg?_nc_cat=101&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=sYsoQGkA0lkAX8breFM&_nc_ht=scontent.fmex6-1.fna&oh=e99ae62133cabfcccc0461993b67c04f&oe=5FB971AE" width="85%" title="hover text">
+<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122894262_3539519022794413_2087407428548509888_o.jpg?_nc_cat=103&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=HDrHQonmECkAX8lD190&_nc_ht=scontent.fmex6-1.fna&oh=14068ae0c9257aa2fbb1e09f92b23b8c&oe=5FBA46BB" width="85%" title="hover text">
 
 
 ## Desafíos que enfrentamos frente a un problema 🧟‍♀️
