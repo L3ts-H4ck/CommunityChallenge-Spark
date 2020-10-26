@@ -135,7 +135,7 @@ Recursos utilizados en esta sección : [BG Clouds](https://unsplash.com/photos/P
 * [Best Practice](https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/best-practice#effect-strategy)
 * [Engaging Experiences](https://developers.facebook.com/videos/2020/building-engaging-experiences-on-spark-ar/)
 
-# Sampled Software:
+# Software de muestra:
 
 * Introducción
 * Assets
