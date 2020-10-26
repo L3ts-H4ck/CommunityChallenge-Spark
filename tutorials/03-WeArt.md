@@ -56,22 +56,22 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/14.png?raw=true" width="50%">
 
-### - We're going to click on ```Texture Extraction``` and select ```cameraTexture0```, next in Segmentation we're going to select the ```personSegmentationMaterial```
+### - We're going to click on ```Texture Extraction``` and select ```cameraTexture0```, next in Segmentation we're going to select the ```personSegmentationMaskTexture0```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/15.png?raw=true" width="50%">
+
+# Preview our Vangogh BG
 
 ### - Now on the properties for the material on ```Shader Type``` we select ```Flat```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/16.png?raw=true" width="50%">
 
-
-
-
-# Preview our Vangogh BG
-
-# Make the Crown
+### - On ```Texture``` we select ```cameraTexture0```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/17.png?raw=true" width="50%">
+
+### - Once we've done that, on ```Alpha``` we cross the checkbox. In ```Texture``` we choose ```personSegmentationMaskTexture0```
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/18.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/19.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/20.png?raw=true" width="50%">
@@ -79,6 +79,12 @@
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/22.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/23.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/24.png?raw=true" width="50%">
+
+
+
+
+# Make the Crown
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/25.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/26.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/27.png?raw=true" width="50%">
