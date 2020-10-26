@@ -9,7 +9,7 @@
 
 - ✨ [Sobre este proyecto](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#sobre-este-proyecto)
 - ✨ [Tutoriales](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#tutoriales)
-- ✨ [Video Tutoriales](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#youtube-tutoriales)
+- ✨ [Video Tutoriales](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/README.md#video-tutoriales)
 - ✨ [Recursos](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#recursos)
 - ✨ [Licencia](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#licencia)
 
