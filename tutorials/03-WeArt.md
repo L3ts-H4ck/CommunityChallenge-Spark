@@ -112,13 +112,23 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/27.png?raw=true" width="50%">
 
-### - If you look closely, know we have a rectangle following the face of the person. But it's out of place, we just need to move it a little to the front.
+### - If you look closely, now we have a rectangle following the face of the person. But it's out of place, we just need to move it a little to the front.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/28.png?raw=true" width="50%">
 
+### - Now we go to the very bottom on the ```Textures``` section, and add all the images for our crown.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/29.png?raw=true" width="50%">
+
+### - In this case we added 3 images, they have to be at the same level of the other textures.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/30.png?raw=true" width="50%">
+
+### - For every image you add, you need to add at least one ```Plane``` on the ```Face Tracker```, in each plane there's going to be one image, but you can have as many planes you want, if you want to repeat the same image over and over again.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/31.png?raw=true" width="50%">
+
+### - Now on the upper section, there's an icon with four arrows, once we select this icon, we can move all the planes we've create.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/32.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/33.png?raw=true" width="50%">
