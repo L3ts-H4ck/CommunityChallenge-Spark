@@ -38,18 +38,31 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/10.png?raw=true" width="50%">
 
-### - We need to change its width and heigth to 100%. This ensure us to cover the hole screen and not to leave any blank space on the filter
+### - Once you have the properties like us, we now have to add a material to our bg rectangle.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/11.png?raw=true" width="50%">
+
+### - Once you have the properties like us, we now have to add a material to our bg rectangle. We click on the plus sign on the material section.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/12.png?raw=true" width="50%">
+
+### - Let's change the name of the material to ```vgBg ```
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/13.png?raw=true" width="50%">
+
+# Add Camera Textures and Segmentation
+
+### - On top of the rectangles, there is the camera section, we need to click it because we now need to add the texture and segmentation.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/14.png?raw=true" width="50%">
+
+### - On top of the rectangles, there is the camera section, we need to click it because we now need to add the texture and segmentation.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/15.png?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/16.png?raw=true" width="50%">
 
 
-# Add Camera Textures and Segmentation
+
 
 # Preview our Vangogh BG
 
