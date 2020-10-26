@@ -154,9 +154,20 @@
 
 # Make details
 
+### - If you don't want your filter to look like this, we can fix it.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/38.png?raw=true" width="50%">
+
+### - Create a new layer.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/39.png?raw=true" width="50%">
+
+### -  And add more images to this layer.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/40.png?raw=true" width="50%">
+
+ ### - Then move it to the sides of the face, so it can look more natural.
+ 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/41.png?raw=true" width="50%">
 
 
