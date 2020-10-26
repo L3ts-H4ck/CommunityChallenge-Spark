@@ -10,47 +10,62 @@
 
 La mejor manera para instalar Spark AR es ingresando al sitio oficial de [Spark AR](https://sparkar.facebook.com/ar-studio/) y seleccionando el boton de Download. El cual nos brindara un archivo de instalacion con el cual podremos instalar la ultima version de Spark AR. Cada que facebook alza una nueva version de Spark AR el mismo software nos lo hara saber, por lo que no sera necesario instalarlo de nuevo.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-intro.png?raw=true" width="75%" title="hover text">
+
+
+The best way to install Spark AR is through the official site of Spark AR and clicking on the download button. We'll recive an installation file, from wich we can get the latest version. 
+Each time facebook releases a new version, we can get the newest one with the one we downloaded, you don't need to install it again. 
+
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-intro.png?raw=true" width="50%" title="hover text">
 
 ## Spark AR Tour
 
-Para abrir el programa solo sera necesario buscarlo y ejecutarlo dandole dos clic sobre el icono de Spark AR.
+To open the program, you need to find it and double click it.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/02-intro.png?raw=true" width="75%" title="hover text">
 
-Al abrir Spark AR nos encontraremos una interface como la que tenemos en pantalla, en la cual podremos crear un filtro desde cero presionando dos veces en la opcion1 : New Project, o usar un template pre establecido como los que podemos encontrar en la ceccion de all Templates.
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/02-intro.png?raw=true" width="50%" title="hover text">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/03-intro.png?raw=true" width="75%" title="hover text">
 
-Ademas de eso so le damos clic en la seccion de ``` Learn``` podremos encontrar una serie de recursos oficiales de Facebook con los cuales podremos aprender a sacarle el maximo provecho a esta potente herramienta. 
+Once we open Spark AR, we'll find an interface like the one on the screen, from wich we can create a filter from the ground up.By doble clicking the option ```New project```, or we can choose a premade template on the section ```All Templates```.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/04-intro.png?raw=true" width="75%" title="hover text">
+
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/03-intro.png?raw=true" width="50%" title="hover text">
+
+
+We can also click on the section ```Learn```. Where we can find official resources from Facebook, from wich we can learn how to make the best out of this tool.
+
+
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/04-intro.png?raw=true" width="50%" title="hover text">
+
 
 ## Our First Filter
-Lo primero que vamos a hacer es seleccionar la opcion de ``` Face Mask ``` dandole dos clic sobre la imagen.
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/05-intro.png?raw=true" width="75%" title="hover text">
+The first thing we're going to do, is to select the option ``` Face Mask ```, by double clicking on the image.
 
-Se nos abrira una interface como la que estamos viendo en pantalla: 
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/05-intro.png?raw=true" width="50%" title="hover text">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/06-intro.png?raw=true" width="75%" title="hover text">
+We'll get an interface like this one:
 
-Del lado izquierdo de nuestro monitor podremos encontrar un boton llamado ``` + Add Object ``` 
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/06-intro.png?raw=true" width="50%" title="hover text">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/08-intro.png?raw=true" width="35%" title="hover text">
 
-El cual al darle clic abrira una pantalla como la que tenemos abajo, en la cual encontraremos los principales elementos de spark ar y sus caracteristicas, en nuestro caso vamos a seleccionar la opcion de texto 3d.
+On the left side of our monitor, we can find a button called ``` + Add Object ``` 
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/09-intro.png?raw=true" width="75%" title="hover text">
 
-Y lo vamos a agregar dentro de nuestro faceTracker0, podremos ver que del lado derecho del monitor estan las propiedades de nuestro objeto texto3d dentre los cuales tenemos material, texto, letra, etc.
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/08-intro.png?raw=true" width="50%" title="hover text">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/10-intro.png?raw=true" width="75%" title="hover text">
+If we click it, a window like this one will open. In this window we can find the main elements of Spark AR and its characteristics. In our case we're going to select the option "3dtext"
 
-En nuestro caso vamos a darle clic en la opcion de Typography / Text y agregaremos el texto ``` hello world ``` , con esto conseguiremos que el texto cambie.
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/09-intro.png?raw=true" width="50%" title="hover text">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/11-intro.png?raw=true" width="75%" title="hover text">
+We will add it to our faceTracker0. We can now see on the rigth side the properties of our object "3dtext", like material, text, font, etc.
 
-Si nos vamos a la seccion de materiales podremos cambiar los tonos de las letras. 
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/10-intro.png?raw=true" width="50%" title="hover text">
 
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/12-intro.png?raw=true" width="75%" title="hover text">
+We're going to to click on Typography / Text and we'll add the text ``` hello world ```, now the text has changed.
+
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/11-intro.png?raw=true" width="50%" title="hover text">
+
+If we go to materials, we can change the colors and more.
+
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/12-intro.png?raw=true" width="50%" title="hover text">
+
