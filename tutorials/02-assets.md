@@ -1,4 +1,4 @@
-# Haga nuestros activos y cómo encontrar recursos <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
+# Como crear nuestros recursos y dónde encontrar recursos <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
 
 ## En busca de recursos
 
