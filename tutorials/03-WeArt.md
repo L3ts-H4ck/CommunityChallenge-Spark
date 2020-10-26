@@ -14,14 +14,19 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/04.png?raw=true" width="50%">
 
-### - Once we add this to our canvas, we select again the optin "Add object" and we add a rectangle
+### - Once we add this to our canvas, we select again the option "Add object" and we add a rectangle
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/05.png?raw=true" width="50%">
 
-
+### - Now we can see the rectangle on the canvas.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/06.png?raw=true" width="50%">
+
+### - We need to add another rectangle, the first one is for the user and second one is for the background
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/07.png?raw=true" width="50%">
+
+### - Once we change the names of the rectangle to ```user``` and ```bg```, we can procced to edit them.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/08.png?raw=true" width="50%">
 
