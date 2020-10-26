@@ -1,123 +1,123 @@
-# See me mom I am a painting
+# Mírame mamá soy una pintura 🍏
 
-## 1) Find Resources.
+## 1) Encuentra recursos.
 
-### - Search for the rigth inspiration for your filters, let you imagination fly
+### - Busque la inspiración adecuada para sus filtros, deje volar su imaginación
 
-## 2) Open Spark AR and create a new project.
+## 2) Abra Spark AR y cree un nuevo proyecto.
 
-### - Once we open the Spark AR program, we will select ```New Project```
+### - Una vez que abramos el programa Spark AR, seleccionaremos ```New Project```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker3D_1.jpg?raw=true" width="50%">
 
-## 3) Add a Face Tracker
+## 3) Agrega un Face Tracker
 
-### - The first thing we need is a new object, so we're goign to click in ```Add object```
+### - Lo primero que necesitamos es un objeto nuevo, así que haremos clic en ```Add object```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker3D_2.jpg?raw=true" width="50%">
 
-### - We need a canvas, and inside the canvas 2 rectangles
+### - Necesitamos un lienzo, y dentro del lienzo 2 rectángulos
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker3D_3.jpg?raw=true" width="50%">
 
-### - We will change the name of the rectangles to ```user``` and ```bg```, also make sure that on the material you have selected the 3D object.
+### - Cambiaremos el nombre de los rectángulos a ```user``` y ```bg```, también asegúrese de que en el material ha seleccionado el objeto 3D.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker3D_5.jpg?raw=true" width="50%">
 
-### - On this same properties, make sure you have the ```visible``` option checked and the ```position``` in ```Fill Height```
+### - En estas mismas propiedades, asegúrese de tener la opción marcada  ```visible``` y la ```position``` en ```Fill Height``` .
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker3D_7.jpg?raw=true" width="50%">
 
-### - Now we'll go to the camera, once selected, we can change its properties.
+### - Ahora iremos a la cámara, una vez seleccionada, podemos cambiar sus propiedades.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_8.jpg?raw=true" width="50%">
 
-### - In ```texture``` we'll choose ```cameraTexture0``` and in ```Segmentation``` => ```Person```
+### - En ```texture``` elegiremos ```cameraTexture0``` y en  ```Segmentation``` => ```Person```
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_9.jpg?raw=true" width="50%">
 
-### - For the rectangle ``user``, we'll add a new ``material``. Called it ``user`` and change its properties: 
+### - Para el rectángulo ``user``, agregaremos un nuevo ``material``. Llámado ``user`` y cambia sus propiedades: 
 - ``Shader Type`` => ``Flat``
 - ``STexture`` => ``CameraTexture0``
 - ``Alpha`` => Checked
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_10.jpg?raw=true" width="50%">
 
-### - Once we have the ``Alpha`` option selected, we choose the texture we want, in this case we'll select ``personSegmentationMaskTexture0``
+### - Una vez que tenemos la opciónel ``Alpha`` seleccionada, elegimos la textura que queremos, en este caso seleccionaremos ``personSegmentationMaskTexture0``
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_11.jpg?raw=true" width="50%">
 
-### - The screen has to look like this.
+### - La pantalla tiene que verse así.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_12.jpg?raw=true" width="50%">
 
-### - Now its the turn of the other rectangle, we'll add a brand new material
+### - Ahora es el turno del otro rectángulo, agregaremos un material nuevo.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_13.jpg?raw=true" width="50%">
 
-### - For this material we new a new texture. We'll selected now the background we want.
+### - Para este material, creamos una nueva textura. Seleccionaremos ahora el fondo que queremos.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_14.jpg?raw=true" width="50%">
 
-### - Once done this, we can see the background of our painting. 
+### - Una vez hecho esto, podemos ver el fondo de nuestra pintura.. 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_15.jpg?raw=true" width="50%">
 
-## 4) Add the 3d elemets inside the facetracker
+## 4) Agregue los elementos 3D dentro del rastreador facial.
 
-### - The next thing is to add the ``Face Tracker`` for our filter.
+### - Lo siguiente es agregar el ``Face Tracker`` para nuestro filtro.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_16.jpg?raw=true" width="50%">
 
-### - This is the fun part, we will start adding our assets.
+### - Esta es la parte divertida, comenzaremos a agregar nuestros activos.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_17.jpg?raw=true" width="50%">
 
-### - We select ``import from computer``
+### - Seleccionamos ``import from computer``
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_18.jpg?raw=true" width="50%">
 
-### - For this we had prepared our own assets, you can do it to, or just use the ones we are using to.
+### - Para ello hemos preparado nuestros propios activos, puedes hacerlo tú, o simplemente usar los que estamos usando.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_19.jpg?raw=true" width="50%">
 
-### - On the files we just upload, there is this one that contains the head of our mask.
+### - En los archivos que acabamos de cargar, hay uno que contiene la cabeza de nuestra máscara.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_20.jpg?raw=true" width="50%">
 
-### - We need to drag it to our ``Face Tracker`` so we can use it.
+### - Necesitamos arrastrarlo a nuestro ``Face Tracker`` para que podamos usarlo.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_21.jpg?raw=true" width="50%">
 
-### - We repeat this same process for the hat.
+### - Repetimos este mismo proceso para el sombrero.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_22.jpg?raw=true" width="50%">
 
-### - Now we have a head with a little hat
+### - Ahora tenemos una cabeza con un sombrerito.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_23.jpg?raw=true" width="50%">
 
-### - And once again, but now with the apple
+### - Y una vez más, pero ahora con la manzana
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_24.jpg?raw=true" width="50%">
 
-## 5) Fix the 3d Elements
+## 5) Arreglar los elementos 3d
 
-### - We'll move the apple and all of the other elements to the place we want, you can do this with the selection tool on the top of the screen.
+### - Moviremos la manzana y todos los demás elementos al lugar que queramos, puedes hacerlo con la herramienta de selección en la parte superior de la pantalla.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_25.jpg?raw=true" width="50%">
 
-## 6) Prepare and Testing
+## 6) Preparar y probar
 
-### - We have now all the assets we need, we just have to change their colors, for that we need to change the ``Blend Mode`` => ``Replace`` and the ``Opacity`` => 100%
+### - Ahora tenemos todos los activos que necesitamos, solo tenemos que cambiar sus colores, para eso necesitamos cambiar el ``Blend Mode`` => ``Replace`` y el ``Opacity`` => 100%
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_26.jpg?raw=true" width="50%">
 
-### - In the upper section we can change the color of the elements.
+### - En la sección superior podemos cambiar el color de los elementos.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_27.jpg?raw=true" width="50%">
 
-### - An it's done, the only thing left to do is to test it and send it to revision.
+### - Una vez hecho, lo único que queda por hacer es probarlo y enviarlo a revisión.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_28.jpg?raw=true" width="50%">
 
